@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... JavaScript & C++
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... Python
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with ... C++
+- 💬 Ask me about ... 
 - 📫 How to reach me: ... DM 'syeedalmashrafi' on Discord
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to play Chess, Roblox and Mobile Legends.
