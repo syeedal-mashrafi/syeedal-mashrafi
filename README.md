@@ -1,19 +1,22 @@
-## Hi there 👋
+## Hi, I'm Syeed Al Mashrafi 👋
 
-I'm **Syeed Mashrafi**, an undergraduate student at the University of Maryland, Baltimore County (UMBC), majoring in Computer Science and Mathematics.
-- 😄 Pronouns: ... He/Him
+> Computer Science @ Towson University · he/him · Baltimore, MD
 
-**syeedal-mashrafi/syeedal-mashrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm an undergraduate student passionate about building real-world technology solutions. My interests span **AI, cybersecurity, robotics, and global innovation** — with a focus on creating tools that make a meaningful difference.
 
-🌟 I’m passionate about building real-world technology solutions, with a strong interest in AI, cybersecurity, robotics, and global innovation.  
-💻 Currently learning and building with JavaScript, Python, C++, and web development technologies.  
-🚀 Actively participating in UMBC Robotics Club, Hackathon Competition, and the Maryland Student Legislature to grow both my technical and leadership skills.  
-🔗 I'm building projects focused on real-world impact, including personal finance apps, AI study tools, and robotics automation.  
+### 🚀 What I'm up to
 
-## 📫 How to connect with me
+- 🔨 **Building:** Personal finance apps, AI study tools & robotics automation
+- 📚 **Learning:** JavaScript · Python · C++ · Web development
+- 🤝 **Involved in:** UMBC Robotics Club · Hackathon Competitions · NASA L'SPACE NPEE Program
+- 🎮 **Fun fact:** YouTube creator who loves Clash of Clans, Roblox & Mobile Legends
 
-- LinkedIn: www.linkedin.com/in/syeed-mashrafi-158941288
-- 📫 How to reach me: ... DM 'syeedalmashrafi' on Discord
-- - ⚡ Fun fact: ... I like to play Class of Clans, Roblox and Mobile Legends.
+---
+
+### 📬 Connect with me
+
+- 💼 [LinkedIn]: https://www.linkedin.com/in/syeedmashrafi/
+- 💬 Discord: `syeedalmashrafi`
+- 🎬 YouTube Content Creator
