@@ -14,6 +14,9 @@ Built with JavaScript, Canvas, and the Web Audio and Web Speech APIs · [Source 
 **[Football Championship](https://football-championship-arena.nuttybeam2.chatgpt.site/game)** — a free multiplayer football game with room-code play for 2–8 players, custom tournaments across 195 countries, offline solo matches, and a five-chapter Road to Glory mode.
 Built with JavaScript, TypeScript, WebGL, and Cloudflare Workers · [Source code](https://github.com/syeedal-mashrafi/football-championship)
 
+**[Cricket World Championship](https://cricket-world-championship.cwcricket.workers.dev)** — a cricket website with live international scores, match pages with toss, innings and win-probability estimates, the 2026–27 series schedule and predictions, plus a browser cricket game with arcade batting and bowling, a manager mode and knockout championships.
+Built with JavaScript, Canvas, Cloudflare Workers, Workers KV and the CricketData API · [Source code](https://github.com/syeedal-mashrafi/cricket-world-championship)
+
 ### 🛠️ What I'm up to
 - 🔭 **Involved in:** NASA L'SPACE Mission Concept Academy (Bioastronautics) · NASA L'SPACE NPWEE Academy (Project Manager) · NASA Space Apps Challenge
 - 📚 **Learning:** Python · TypeScript · data analysis · JavaScript · web development
